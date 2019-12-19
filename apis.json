@@ -1,0 +1,52 @@
+{
+    "name": "Oscar Health",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-29-pm.png",
+    "tags": [
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/oscar-health\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Oscar Health",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-29-pm.png",
+            "humanURL": "https:\/\/www.hioscar.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/oscar-health-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.hioscar.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.hioscar.com\/rss"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/oscarhealth"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/oscarhealth"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.hioscar.com\/"
+        }
+    ]
+}
