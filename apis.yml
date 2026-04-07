@@ -1,7 +1,11 @@
 aid: oscar-health
-url: https://raw.githubusercontent.com/api-evangelist/oscar-health/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/oscar-health/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.oscar-health.com
+description: >-
+  Oscar Health is a health insurance company that uses technology to make health insurance
+  simple, smart, and friendly, offering individual and small group insurance plans.
