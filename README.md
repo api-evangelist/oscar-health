@@ -1,33 +1,24 @@
-# Oscar Health (oscar-health)
-Oscar Health is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Oscar Health.
+# Oscar Health
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/oscar-health/refs/heads/main/apis.yml)
+Oscar Health is a technology-driven health insurance company offering individual, small group, and Medicare Advantage plans. It uses software, member-facing apps, and data to make health insurance simpler and more consumer friendly.
 
-## Scope
+**APIs.json:** https://raw.githubusercontent.com/api-evangelist/oscar-health/refs/heads/main/apis.yml
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Tags
 
-## Tags:
-
- - Fortune 500
-
-## Timestamps
-
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+Health Insurance, Healthcare, Insurance, Fortune 500
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public developer APIs have been documented for Oscar Health at this time. This repository is a placeholder for future API artifacts. Contributions are welcome.
 
 ## Common Properties
 
-- [Website](https://www.oscar-health.com)
+| Property | URL |
+|----------|-----|
+| Website | https://www.hioscar.com |
+| Corporate | https://www.oscar-health.com |
 
 ## Maintainers
 
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+- **Kin Lane** — kin@apievangelist.com
