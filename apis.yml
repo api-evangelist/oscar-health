@@ -19,6 +19,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/oscarhealth
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/oscar-health
   - type: Website
     url: https://www.hioscar.com
   - type: Corporate
